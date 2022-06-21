@@ -1,4 +1,4 @@
-# Bem-vindo a "Análises de Sistemas" 👋  
+# Bem-vindo a "Análise de Sistemas" 👋  
 
 ### Análises de Sistemas é uma cadeira da Universidade de Aveiro que tem como principal objetivo abrir uma visão mais ampla do mercado de trabalho.
 
