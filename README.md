@@ -11,7 +11,7 @@ O repositório é composto essencialmente por 4 iterações fundamentais para o 
 - `I3`: Refinamento dos requisitos. Proposta de arquitetura. Implementação exploratória.
 - `I4`: Implementação das histórias nucleares
 
-Interveniente:
+**Intervenientes**:
 Rafael Amorim, 98197
 Marco Piu, xxx
 Ricardo Antunes, xxx
