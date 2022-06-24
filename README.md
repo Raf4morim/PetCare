@@ -19,4 +19,4 @@ Diogo Silva, 104341;
 > :warning: **foram feitas mais cenas depois da apresentaçao**: meter cenas
 
 
-[![Link para o projeto]([https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/andreclerigo_/](https://github.com/Raf4morim/PetCare/))
+[![Link para o projeto]([https://github.com/Raf4morim/PetCare/)])
