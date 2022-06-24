@@ -17,7 +17,7 @@ function validate() {
     if (cc.length != 16) {
         mensagem += "Número de cartão de crédito deve conter 16 digitos!<br>";
     }
-    if (!isPositiveInteger(str)) {
+    if (!isPositiveInteger(cc)) {
         mensagem += "Número de cartão de crédito deve apenas conter algarismos!<br>";
     }
     if (!/^\d{2}(-\d{4})$/.test(validade)) {
@@ -46,7 +46,6 @@ function isPositiveInteger(str) {
     if (Number.isInteger(num) && num > 0) {
         return true;
     }
-
     return false;
 }
 
