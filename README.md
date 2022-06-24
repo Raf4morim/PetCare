@@ -11,10 +11,10 @@ O repositório é composto essencialmente por 4 iterações fundamentais para o 
 - `I4`: Implementação das histórias nucleares.
 
 **Intervenientes**:
-Rafael Amorim, 98197
-Marco Almeida, 103440
-Ricardo Antunes, 98275
-Diogo Pastilhamas, xxx
+Rafael Amorim, 98197;
+Marco Almeida, 103440;
+Ricardo Antunes, 98275;
+Diogo Silva, 104341;
 
 > :warning: **foram feitas mais cenas depois da apresentaçao**: meter cenas
 
